@@ -1,0 +1,17 @@
+* {
+    padding: 0;
+    margin: 0;
+    -webkit-box-sizing: border-box;
+            box-sizing: border-box;
+  }
+  
+  .dark-theme { 
+    background:black;
+    nav a { 
+        color:#fff;
+    }
+    main hgroup h1,h2,h3{ 
+        color:#fff;
+    }
+   
+}
