@@ -1,1 +1,2 @@
-link demo : baro.netlify.app
+link demo : 
+https://baro.netlify.app/
